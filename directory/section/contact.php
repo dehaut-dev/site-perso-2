@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-lg-offset-1">
-                    <form id="contact-form" method="post" action="" role="form">
+                    <form id="contact-form" method="post" role="form">
                         <div class="row">
                             <div class="col-md-6">
                                 <label for="firstname">Prénom <span class="white">*</span></label>

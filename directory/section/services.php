@@ -1,5 +1,5 @@
 <section id="Service" class="container-fluid">
-    <div class="white-divider"></div>
+    <div class="blue-divider"></div>
     <div class="heading">
         <h2>Services</h2><br>
     </div>

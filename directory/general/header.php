@@ -1,6 +1,6 @@
 <body data-spy="scroll" data-target=".navbar" data-offset="60">
     <nav class="navbar navbar-expand-md navbar-dark sticky-top">
-        <img width="80" src="images/logo.2.png">
+        <img width="100" src="../images/logo.png">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
             <i class="fas fa-bars fa-lg"></i>
         </button>
@@ -15,7 +15,7 @@
         </div>
     </nav>
     <section id="about" class="container-fluid"></section>
-    <img class="col-12 col-lg-12 profile-picture" id="img1" src="images/baniere.png" alt="me">
+    <img class="col-12 col-lg-12 profile-picture" id="img1" src="../images/baniere.png" alt="profil picture">
     <section id="about" class="container-fluid">
 
         <div class="heading">
